@@ -19,7 +19,7 @@ const Contact = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const x= await axios.post('http://localhost:4000/api/contact/send-email', formData);
+      const x= await axios.post('https://veteranswebsite-backend.onrender.com/api/contact/send-email', formData);
       console.log(x)
       toast.success('Message sent successfully!');
       setFormData({ name: '', email: '', message: '' });
