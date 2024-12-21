@@ -14,7 +14,7 @@ const Header = () => {
                     <img className='w-[20vw] md:w-[15vw]' src={assets.group_profiles} alt="" />
                     <p>Simply browse through our veterans, <br className='hidden sm:block' /> Donate hassle-free.</p>
                 </div>*/}
-                <a href='#speciality' className='flex items-center gap-[1.5vw] bg-white px-[4vw] py-[2vw] rounded-full text-[#595959] text-[2.5vw] md:text-[1.5vw] hover:scale-105 transition-all duration-300'>
+                <a href='/donors' className='flex items-center gap-[1.5vw] bg-white px-[4vw] py-[2vw] rounded-full text-[#595959] text-[2.5vw] md:text-[1.5vw] hover:scale-105 transition-all duration-300'>
                     Donate Online <img className='w-[3vw] md:w-[1.5vw]' src={assets.arrow_icon} alt="" />
                 </a>
             </div>
