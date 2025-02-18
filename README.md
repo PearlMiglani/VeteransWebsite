@@ -26,3 +26,4 @@ This **cloud-first, full-stack web application** enables seamless, secure, and s
 - **Secure Transactions** – **End-to-end encrypted** payment processing.  
 - **Auto-Scaling** – **Dynamically handles traffic spikes** without downtime.  
 - **Real-Time Analytics** – Provides **insightful data** for better decision-making.
+![Uploading Screenshot 2025-02-18 at 12.20.31 AM.png…]()
